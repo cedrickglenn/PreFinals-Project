@@ -5,7 +5,8 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:Final_Project"
         mc:Ignorable="d"
-        Title="CustomerWindow" Height="450" Width="800">
+        Title="CustomerWindow" Height="450" Width="800"
+        WindowStartupLocation="CenterScreen">
     <Grid>
         <Grid.ColumnDefinitions>
             <ColumnDefinition Width="*"/>
@@ -19,7 +20,6 @@
             <RowDefinition Height="*"/>
             <RowDefinition Height="*"/>
             <RowDefinition Height="*"/>
-
         </Grid.RowDefinitions>
         <Label 
             Content="First Name: "
@@ -61,6 +61,7 @@
             Grid.Column="1"
             Grid.ColumnSpan="2"
             Grid.Row="0" 
+            FontSize="20"
             Margin="0.2,0,9.6,0.4"
             />
         <TextBox
@@ -69,6 +70,7 @@
             Grid.ColumnSpan="2" 
             Margin="0.2,70,9.6,0" 
             Grid.RowSpan="2"
+            FontSize="20"
             />
         <TextBox 
             Name="txtLastName"
@@ -76,6 +78,7 @@
             Grid.ColumnSpan="2"
             Grid.Row="2" 
             Margin="0.2,0,9.6,0.4"
+            FontSize="20"
             />
         <TextBox
             Name="txtAddress"
@@ -84,6 +87,7 @@
             Grid.Row="2" 
             Margin="0.2,70,9.6,0" 
             Grid.RowSpan="2"
+            FontSize="20"
             />
         <TextBox
             Name="txtContactNumber"
@@ -91,14 +95,18 @@
             Grid.ColumnSpan="2"
             Grid.Row="4" 
             Margin="0.2,0,9.6,0.4"
+            FontSize="20"
             />
         <Button
+            Name="btnAddCustomer"
+            Click="BtnAddCustomer_Click"
             Content="Add Details"
             FontSize="20"
             Grid.Column="1"
             Grid.Row="5" 
             Height="Auto" 
             Margin="10.2,9.6,9.8,10"/>
+        
 
     </Grid>
 </Window>

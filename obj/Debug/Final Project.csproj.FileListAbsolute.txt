@@ -21,3 +21,11 @@ C:\Users\Cedrick\source\repos\Final Project\Final Project\obj\Debug\Final Projec
 C:\Users\Cedrick\source\repos\Final Project\Final Project\obj\Debug\Final Project.pdb
 C:\Users\Cedrick\source\repos\Final Project\Final Project\obj\Debug\CustomerWindow.g.cs
 C:\Users\Cedrick\source\repos\Final Project\Final Project\obj\Debug\CustomerWindow.baml
+C:\Users\Cedrick\source\repos\Final Project\Final Project\obj\Debug\TransactionWindow.g.cs
+C:\Users\Cedrick\source\repos\Final Project\Final Project\obj\Debug\TransactionWindow.baml
+C:\Users\Cedrick\source\repos\Final Project\Final Project\obj\Debug\SettingsWindow.g.cs
+C:\Users\Cedrick\source\repos\Final Project\Final Project\obj\Debug\SettingsWindow.baml
+C:\Users\Cedrick\source\repos\Final Project\Final Project\obj\Debug\TransactionList.g.cs
+C:\Users\Cedrick\source\repos\Final Project\Final Project\obj\Debug\TransactionList.baml
+C:\Users\Cedrick\source\repos\Final Project\Final Project\obj\Debug\PaymentWindow.g.cs
+C:\Users\Cedrick\source\repos\Final Project\Final Project\obj\Debug\PaymentWindow.baml

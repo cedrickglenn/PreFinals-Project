@@ -10,11 +10,11 @@ none
 false
 DEBUG;TRACE
 C:\Users\Cedrick\source\repos\Final Project\Final Project\App.xaml
-2-2005857206
+6-227319985
 
-6276239065
+12-1363513662
 151932826546
-CustomerWindow.xaml;MainWindow.xaml;
+CustomerWindow.xaml;MainWindow.xaml;PaymentWindow.xaml;SettingsWindow.xaml;TransactionList.xaml;TransactionWindow.xaml;
 
 False
 
